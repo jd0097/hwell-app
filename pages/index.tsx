@@ -1,10 +1,7 @@
-
-
-
 export default function Home() {
   return (
     <>
-<main></main>
+      <main>안녕하세요.</main>
     </>
-  )
+  );
 }
