@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://hwell-app-alpha.vercel.app/
+
+# Sitemaps
+Sitemap: https://hwell-app-alpha.vercel.app/sitemap.xml
