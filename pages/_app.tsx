@@ -2,9 +2,9 @@ import "@/styles/globals.scss";
 import type { AppProps } from "next/app";
 import { DefaultSeo } from "next-seo";
 import SEO from "@/next-seo.config";
-import Script from 'next/script'
+import Script from "next/script";
 import Head from "next/head";
-import * as gtag from '../lib/gtag'
+import * as gtag from "../lib/gtag";
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
