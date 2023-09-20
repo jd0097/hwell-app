@@ -13,11 +13,15 @@ export default {
       rel: "shortcut icon",
       href: "/favicon.ico",
     },
-  ], 
+  ],
   additionalMetaTags: [
     {
       name: "naver-site-verification",
       content: "617a4d67d231a2ea8cb3caa65170d8644b4c8f4d",
+    },
+    {
+      name: "google-site-verification",
+      content: "GWdNlkPwaru0NzAuKiMsXqG1-e-w9oHuz5Eox954_-U",
     },
   ],
 };
