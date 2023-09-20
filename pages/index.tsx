@@ -8,7 +8,6 @@ import { useEffect } from "react";
 
 //SEO 적용하기
 // import NextSeo from "next-seo";
-
 interface IProps {
   infos: Info[];
 }
